@@ -1,0 +1,23 @@
+*{
+	
+}
+
+body{
+	
+}
+
+ul{
+	
+	
+	
+}
+
+.nav{
+	font-family:'Impact', sans-serif;
+	text-align:center;
+	background-image: url("https://raw.githubusercontent.com/raoulsoans/raoulsoans.github.io/master/seattleNice.jpg");
+}
+
+#Nav{
+	list-style-type: none;
+}
